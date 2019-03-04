@@ -30,7 +30,7 @@ pip install cde
 ```
 Note that the package only supports tensorflow versions between 1.4 and 1.7.
 ## Documentation
-See the documentation [here](https://freelunchtheorem.github.io/Conditional_Density_Estimation).
+See the documentation [here](https://freelunchtheorem.github.io/Conditional_Density_Estimation). A technical report & paper will soon be released and linked here.
 
 ## Usage
 The following code snipped holds an easy example that demonstrates how to use the cde package.
@@ -69,6 +69,9 @@ If you use CDE in your research, you can cite it as follows:
     year = {2019},
     publisher = {GitHub},
     journal = {GitHub repository},
-    howpublished = {\url{https://github.com/ferreira-fabio/Conditional_Density_Estimation}},
+    howpublished = {\url{https://github.com/freelunchtheorem/Conditional_Density_Estimation}},
 }
 ```
+
+## Todo
+- creating a branch just for our conditional estimators + python package
